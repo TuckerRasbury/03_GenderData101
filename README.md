@@ -24,6 +24,8 @@ Dataset Title: Take-up Rate by Race/Etnicity and Gender
 
 Source: [Here](https://catalog.data.gov/dataset/take-up-rate-by-race-etnicity-and-gender)
 
+Description: Take-up rate within 2 fiscal years after separation from military service by race/ethnicity and gender.
+
 Date Last Updated: April 21, 2021
 
 **Questions** 
