@@ -20,13 +20,13 @@ _Description: The goal of this activity is to explore a dataset with sex-disaggr
 
 **Summary Details** 
 
-Dataset Title: Take-up Rate by Race/Etnicity and Gender
+Dataset Title: Electronic Police Report 2018
 
-Source: [Here](https://catalog.data.gov/dataset/take-up-rate-by-race-etnicity-and-gender)
+Source: [Here](https://catalog.data.gov/dataset/electronic-police-report-2018)
 
-Description: Take-up rate within 2 fiscal years after separation from military service by race/ethnicity and gender.
+Description: All Police Reports filed by NOPD officers including incident and supplemental reports containing the item number, location, disposition, signal, charges, offender race, offender gender, offender age, victim age, victim gender, and victim race. Police Reports can be updated when subsequent information is determined as a result of an investigation. In order to protect the privacy of victims, addresses are shown at the block level.
 
-Date Last Updated: April 21, 2021
+Date Last Updated: November 12, 2020
 
 **Questions** 
 1. What are the gender options?: (Example Answer 1: Gender options are binary, only M/F, Example Answer 2: Gender options are Male, Female, Other, etc.)
