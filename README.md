@@ -35,7 +35,7 @@ Date Last Updated: November 12, 2020
 
 2. Does the dataset have quantitative or qualitative data? Or both?
 
-> The dataset is exclusively quantitative.
+> The dataset is primarily quantitative, but does contain some qualitative data (categorical data).
 
 3. Does the dataset take an intersectional approach? If so, to what extent?
 
