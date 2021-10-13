@@ -15,3 +15,26 @@ My hope is that by creating this repository 1) others can benefit from some of t
 The framing of the activites and objectives will be quotes or paraphrased, so much of the framework here is the intellectual mentorship/property/paradigm of the course leaders. The answers to the activities are my work.
 
 ## Week 1: Fundamentals of Gender and Data [October 13-16]
+### Activity: Open Gender Data Scavenger Hunt
+_Description: The goal of this activity is to explore a dataset with sex-disaggregated data and answer a few questions._
+
+**Summary Details** 
+
+Dataset Title:
+
+Source:
+
+Date Last Updated:
+
+**Questions** 
+1. What are the gender options?: (Example Answer 1: Gender options are binary, only M/F, Example Answer 2: Gender options are Male, Female, Other, etc.)
+
+2. Does the dataset have quantitative or qualitative data? Or both?
+
+3. Does the dataset take an intersectional approach? If so, to what extent?
+
+4. Would you consider your dataset to be "gender data"? Why or why not?
+
+5. Considering your answers to questions 2 and 3, what does the dataset do well and what is it missing? 
+
+6. What additional questions or comments you have for the dataset? For example: What methodologies were used to collect this data?
