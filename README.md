@@ -50,4 +50,5 @@ I would not consider the dataset to be "gender data". "Gender Data" for the purp
 The dataset contains gender variables which is a positive in the dataset and also has disaggregated data which is even better for analysis. The dataset is missing additional social or cultural (read: "intersectional") data, be that qualitative or quantitative.
 
 6. What additional questions or comments you have for the dataset? For example: What methodologies were used to collect this data?
+
 I would have liked to see more information concerning the income/salaray/wage/employment data for the area in which the arrest took place or for the people involved in the incident to get a better sense of the economic context the issue took place in. The dataset could also be nuanced by adding factors like number/rate of homelessness/vagrancy in a zipcode, sexuality of those involved in an incident, number of children of those involved, and/or marriage status.
