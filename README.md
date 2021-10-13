@@ -20,11 +20,11 @@ _Description: The goal of this activity is to explore a dataset with sex-disaggr
 
 **Summary Details** 
 
-Dataset Title: 
+Dataset Title: Take-up Rate by Race/Etnicity and Gender
 
-Source: [Here]()
+Source: [Here](https://catalog.data.gov/dataset/take-up-rate-by-race-etnicity-and-gender)
 
-Date Last Updated:
+Date Last Updated: April 21, 2021
 
 **Questions** 
 1. What are the gender options?: (Example Answer 1: Gender options are binary, only M/F, Example Answer 2: Gender options are Male, Female, Other, etc.)
