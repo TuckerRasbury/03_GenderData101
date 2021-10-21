@@ -65,12 +65,11 @@ _Description: Review the datasets (2) and take note of any areas of the data tha
 
 Dataset | Type of Bias | Explained
 ------------ | ------------- | ----------
-#1 | Testing | Testing
-#1 | Testing | Testing
-#1 | Testing | Testing
-#2 | Testing | Testing
-#2 | Testing | Testing
-#2 | Testing | Testing
+#1 | Selection Bias | Testing
+#1 | Question Wording/Ordering Bias | Testing
+#2 | Social Desirability Response Bias | Testing
+#2 | Question Wording/Ordering Bias | Testing
+#2 | Non-response bias | Testing
 
 2. Of the biases you found, which one(s) do you think are the most important to address first? Why?
 > _Testing_
