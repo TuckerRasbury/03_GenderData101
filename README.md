@@ -18,7 +18,7 @@ The framing of the activites and objectives will be quotes or paraphrased, so mu
 ### Activity: Open Gender Data Scavenger Hunt
 _Description: The goal of this activity is to explore a dataset with sex-disaggregated data and answer a few questions._
 
-**Summary Details** 
+#### Summary Details
 
 Dataset Title: Electronic Police Report 2018
 
@@ -28,7 +28,7 @@ Description: All Police Reports filed by New Orleans Police Department officers 
 
 Date Last Updated: November 12, 2020
 
-**Questions** 
+#### Questions 
 1. What are the gender options?: (Example Answer 1: Gender options are binary, only M/F, Example Answer 2: Gender options are Male, Female, Other, etc.)
 
 > The gender options herein are Offender_Gender and Victim_Gender and are presented as a binary "MALE", "FEMALE", and blank fields without an option for "OTHER".
@@ -56,3 +56,19 @@ Date Last Updated: November 12, 2020
 ## Week 2: Gender Data Collection and Processing [October 17-23]
 ### Activity: Spot the Biases
 _Description: Review the datasets (2) and take note of any areas of the data that may suffer from biases using terms from the "Examining Bias lesson section. Address the prompts._
+
+Dataset 1: [Here](https://docs.google.com/spreadsheets/d/1AikInBFrKuBW9XmTS935RyzRIiDfJdwJgRw5yTQTNZs/edit?usp=sharing)
+Dataset 2: [Here](https://docs.google.com/spreadsheets/d/15vNtkUuLm0F3m5kQK0j8RcaRqqRmIlGwNq-OBHH58i4/edit?usp=sharing)
+
+#### Prompts
+1. Summarize in a list the types of biases found in the datasets.
+> _Testing_
+
+2. Of the biases you found, which one(s) do you think are the most important to address first? Why?
+> _Testing_
+
+3. What is one method or consideration that Dr. Lopez and/or Rumy can apply during data collection to prevent the biases you found?
+> _Testing_
+
+4. Are either of these datasets and example of gender data? Why or why not?
+> _Testing_
