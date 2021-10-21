@@ -80,6 +80,7 @@ Dataset | Type of Bias | Explained
 > My concern is that the pattern of services used might be different between racial groups and/or subsects of different racial groups (ex. black men compared to black women, or hispanic lgbtqia+ compared to the broader lgbtqia+ community). By addressing this bias in the dataset, the local clinic in the hypothetical scenario might be able to better assist their community, find that their resources could be directed more towards the type of people actually coming, or that respondents tend to stop seeking care after a certain point.
 
 3. What is one method of consideration that Dr. Lopez and/or Rumy can apply during data collection to prevent the biases you found?
+
 Dataset | Type of Bias | How to Prevent
 ------------ | ------------- | ----------
 #1 | Selection Bias | The demographics of the communities served by the clinic and the demographics of the community at large need to be compared to the population that responded. Subsequently, if doing additional surveys are out of the question, one or more groups can be weighted so that they are represented more accurately for who uses services or could use their services. If additional surveys are possible, more surveys could be done with a new strategy on how to get underrepresented racial groups in the survey (ex. survey in additional languages or conducted live at strategic locations).
