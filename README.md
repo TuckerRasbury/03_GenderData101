@@ -65,14 +65,13 @@ _Description: Review the datasets (2) and take note of any areas of the data tha
 
 Dataset | Type of Bias | Explained
 ------------ | ------------- | ----------
-#1 | Selection Bias | Testing
-#1 | Question Wording/Ordering Bias | Testing
-#2 | Social Desirability Response Bias | Testing
-#2 | Question Wording/Ordering Bias | Testing
-#2 | Non-response bias | Testing
+#1 | Selection Bias | With respect to the "Race" category, "White" respondents are over represented in the dataset. Without any context on what community is being surveyed, I also think it is fair to say that "Black", "Asian", and "Other" racial groups are under represented. The survey results also do not appear to allow people to respond with multiple races. Given the history of settler colonialism, slavery, and war throughout much of the world, mutli-racial individuals/communities exist and should be represented in data.
+#1 | Question Wording/Ordering Bias | With respect to the "Sex" category, there is no option for "Other" or "N/A" to represent lgbtqia+ respondents which may be using clinic services differently than "M" or "F" folks using clinic resources.
+#2 | Social Desirability Response Bias | The question "Are you a legal resident?" has the ability to strike fear into the hearts of respondents and, more importantly, COVID-19 relief - the purpose of the survey - impacts citizens and non-citizens alike. This question may push respondents to respond "Yes" out of fear that "No" could make them targets while all they wanted to do was look for help in the midst of a pandemic.
+#2 | Non-response bias | The question "Are you a legal resident?" has the ability to strike fear into the hearts of respondents and subsequently make them less likely to respond to the survey or less likely to answer certain questions on the survey (ex. some respondents did not respond to questions about their vaccination status).
 
 2. Of the biases you found, which one(s) do you think are the most important to address first? Why?
-> _Testing_
+Of the biases I found, the most important one to address is the selection bias issue from dataset #1. 
 
 3. What is one method or consideration that Dr. Lopez and/or Rumy can apply during data collection to prevent the biases you found?
 > _Testing_
