@@ -57,12 +57,20 @@ Date Last Updated: November 12, 2020
 ### Activity: Spot the Biases
 _Description: Review the datasets (2) and take note of any areas of the data that may suffer from biases using terms from the "Examining Bias lesson section. Address the prompts._
 
-Dataset 1: [Here](https://docs.google.com/spreadsheets/d/1AikInBFrKuBW9XmTS935RyzRIiDfJdwJgRw5yTQTNZs/edit?usp=sharing)
-Dataset 2: [Here](https://docs.google.com/spreadsheets/d/15vNtkUuLm0F3m5kQK0j8RcaRqqRmIlGwNq-OBHH58i4/edit?usp=sharing)
+* Dataset #1: [Here](https://docs.google.com/spreadsheets/d/1AikInBFrKuBW9XmTS935RyzRIiDfJdwJgRw5yTQTNZs/edit?usp=sharing)
+* Dataset #2: [Here](https://docs.google.com/spreadsheets/d/15vNtkUuLm0F3m5kQK0j8RcaRqqRmIlGwNq-OBHH58i4/edit?usp=sharing)
 
 #### Prompts
 1. Summarize in a list the types of biases found in the datasets.
-> _Testing_
+
+Dataset | Type of Bias | Explained
+------------ | ------------- | ----------
+#1 | Testing | Testing
+#1 | Testing | Testing
+#1 | Testing | Testing
+#2 | Testing | Testing
+#2 | Testing | Testing
+#2 | Testing | Testing
 
 2. Of the biases you found, which one(s) do you think are the most important to address first? Why?
 > _Testing_
