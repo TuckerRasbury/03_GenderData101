@@ -58,7 +58,11 @@ Date Last Updated: November 12, 2020
 _Description: Review the datasets (2) and take note of any areas of the data that may suffer from biases using terms from the "Examining Bias lesson section. Address the prompts._
 
 * Dataset #1: [Here](https://docs.google.com/spreadsheets/d/1AikInBFrKuBW9XmTS935RyzRIiDfJdwJgRw5yTQTNZs/edit?usp=sharing)
+  * Description: A local clinic's database system shut down. A clinic employee decided to gather data via Google Sheets instead of the usual secure system. This dataset was shared via email within clinic.
+  * Hypothetical Data Collector: Dr.Lopez
 * Dataset #2: [Here](https://docs.google.com/spreadsheets/d/15vNtkUuLm0F3m5kQK0j8RcaRqqRmIlGwNq-OBHH58i4/edit?usp=sharing)
+  * Description: A COVID-19 relief survey was sent via online link to households in a community in Chile. The link was sent during the weekend starting Friday at 5pm, to be completed by Monday. 142 households responded out 843 households surveyed.
+  * Hypothetical Data Collector: Rumy
 
 #### Prompts
 1. Summarize in a list the types of biases found in the datasets.
@@ -68,13 +72,20 @@ Dataset | Type of Bias | Explained
 #1 | Selection Bias | With respect to the "Race" category, "White" respondents are over represented in the dataset. Without any context on what community is being surveyed, I also think it is fair to say that "Black", "Asian", and "Other" racial groups are under represented. The survey results also do not appear to allow people to respond with multiple races. Given the history of settler colonialism, slavery, and war throughout much of the world, mutli-racial individuals/communities exist and should be represented in data.
 #1 | Question Wording/Ordering Bias | With respect to the "Sex" category, there is no option for "Other" or "N/A" to represent lgbtqia+ respondents which may be using clinic services differently than "M" or "F" folks using clinic resources.
 #2 | Social Desirability Response Bias | The question "Are you a legal resident?" has the ability to strike fear into the hearts of respondents and, more importantly, COVID-19 relief - the purpose of the survey - impacts citizens and non-citizens alike. This question may push respondents to respond "Yes" out of fear that "No" could make them targets while all they wanted to do was look for help in the midst of a pandemic.
-#2 | Non-response bias | The question "Are you a legal resident?" has the ability to strike fear into the hearts of respondents and subsequently make them less likely to respond to the survey or less likely to answer certain questions on the survey (ex. some respondents did not respond to questions about their vaccination status).
+#2 | Non-response bias | The question "Are you a legal resident?" has the ability to strike fear into the hearts of respondents and subsequently make them less likely to respond to the survey or less likely to answer certain questions on the survey (ex. some respondents did not respond to questions about their vaccination status). The question is the first one listed so it comes off as very important and is followed by address. This information in the wrong hands could result in unintended arrests, deportations, family seperation, and/or imprisonment.
 
 2. Of the biases you found, which one(s) do you think are the most important to address first? Why?
-> Of the biases I found, the most important one to address is the selection bias issue from dataset #1. 
+> Of the biases I found, the most important one to address is the selection bias issue from dataset #1. The bias in the dataset for "White" respondents could lead to erroneous strategy setting that does not represent the breadth of who uses, needs, or uses services up to certain price points. This bias is only made worse by the fact that sexual orientation is all together left out of the list of survey questions. 
+> 
+> My concern is that the pattern of services used might be different between racial groups and/or subsects of different racial groups (ex. black men compared to black women, or hispanic lgbtqia+ compared to the broader lgbtqia+ community). By addressing this bias in the dataset, the local clinic in the hypothetical scenario might be able to better assist their community, find that their resources could be directed more towards the type of people actually coming, or that respondents tend to stop seeking care after a certain point.
 
-3. What is one method or consideration that Dr. Lopez and/or Rumy can apply during data collection to prevent the biases you found?
-> _Holding Text_
+3. What is one method of consideration that Dr. Lopez and/or Rumy can apply during data collection to prevent the biases you found?
+Dataset | Type of Bias | How to Prevent
+------------ | ------------- | ----------
+#1 | Selection Bias | The demographics of the communities served by the clinic and the demographics of the community at large need to be compared to the population that responded. Subsequently, if doing additional surveys are out of the question, one or more groups can be weighted so that they are represented more accurately for who uses services or could use their services. If additional surveys are possible, more surveys could be done with a new strategy on how to get underrepresented racial groups in the survey (ex. survey in additional languages or conducted live at strategic locations).
+#1 | Question Wording/Ordering Bias | Replace with "Gender" and provide option for each of the following or an umbrella category for "Transgender", "Nonbinary", and/or "Prefer not to answer".
+#2 | Social Desirability Response Bias | Remove the question about citizenship as it is not essential to the study or move it to later on in the survey after more important questions, COVID-19 related ones, have been answered to avoid bias.
+#2 | Non-response bias | Remove the question about citizenship as it is not essential to the study or move it to later on in the survey after more important questions, COVID-19 related ones, have been answered to avoid bias.
 
 4. Are either of these datasets and example of gender data? Why or why not?
-> _Holding Text_
+> Neither dataset
