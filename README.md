@@ -71,10 +71,10 @@ Dataset | Type of Bias | Explained
 #2 | Non-response bias | The question "Are you a legal resident?" has the ability to strike fear into the hearts of respondents and subsequently make them less likely to respond to the survey or less likely to answer certain questions on the survey (ex. some respondents did not respond to questions about their vaccination status).
 
 2. Of the biases you found, which one(s) do you think are the most important to address first? Why?
-Of the biases I found, the most important one to address is the selection bias issue from dataset #1. 
+> Of the biases I found, the most important one to address is the selection bias issue from dataset #1. 
 
 3. What is one method or consideration that Dr. Lopez and/or Rumy can apply during data collection to prevent the biases you found?
-> _Testing_
+> _Holding Text_
 
 4. Are either of these datasets and example of gender data? Why or why not?
-> _Testing_
+> _Holding Text_
