@@ -1,5 +1,7 @@
 # [GenderData101](https://dataforsdgs.course.tc/catalog/gender-data-101-2)
 
+_For the purposes of this course Gender Data is defined as being "grounded in concepts and definitions that adequately reflect the diversity of women and men and capture all aspects of their lives."_
+
 ## Introduction 
 Designed for gender advisors, data specialists, and other development professionals, Gender Data 101 Edition 2.0 is a 5-week blended online course featuring live events with gender and data experts that unpacks complex and practical considerations to understand, use, and share gender data with the ultimate goal of impact. Some of the exercises I complete(d) during the course will be available here for public viewing. The material will be organized by week and will reflect the activity I choose to complete (as oppose to all the rich available activies the course offers each week). 
 
@@ -89,4 +91,4 @@ Dataset | Type of Bias | How to Prevent
 #2 | Non-response bias | Remove the question about citizenship as it is not essential to the study or move it to later on in the survey after more important questions, COVID-19 related ones, have been answered to avoid bias.
 
 4. Are either of these datasets and example of gender data? Why or why not?
-> Neither dataset
+> Unfortunately, I do not think either dataset #1 or #2 qualifies as gender data. For dataset #1, while it contains sex disaggregated data it does not contain gender disaggregated data. For dataset #2, the dataset does not collect sex or gender data let alone get into the nuances/context of the lives of people of different genders. 
