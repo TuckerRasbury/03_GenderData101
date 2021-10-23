@@ -92,3 +92,5 @@ Dataset | Type of Bias | How to Prevent
 
 4. Are either of these datasets and example of gender data? Why or why not?
 > Unfortunately, I do not think either dataset #1 or #2 qualifies as gender data. For dataset #1, while it contains sex disaggregated data it does not contain gender disaggregated data. For dataset #2, the dataset does not collect sex or gender data let alone get into the nuances/context of the lives of people of different genders. 
+> 
+> On a broader note, I think I am beginning to wonder what Gender Data might actually look like, aside from having a gender variable in a dataset. I'd like to see an example.
