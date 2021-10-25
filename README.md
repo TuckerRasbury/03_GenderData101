@@ -107,3 +107,27 @@ Dataset | Type of Bias | How to Prevent
 ## Week 5: Gender Data Uptake and Impact [November 7-13]
 
 
+## Dictionary
+_Terms listed herein are from the TechChange Gender Data 101 course and are reproduced here to add to this record of what I learned during the course._
+
+### Week 2 Terms
+* **Collection** is the process of gathering and measuring information in a systematic fashion.
+* **Biases** are personal and/or systematic judgments and pre-conceptions.
+* **Selection Bias**, also known as sampling bias, is choosing a sample that is not representative of the population being studied. Selection bias also results when participants not being randomly sampled to a condition.
+* **Response Bias** is a general term for any external factor that can influence a respondent’s answers. 
+* **Non-response bias** means certain members of the population being studied do not participate in the data capture. There are many reasons for non-responses bias. Examples include the medium of study (e.g. online survey) or time study is conducted (e.g. morning times).
+* **Demand characteristics** are the ways participants of a study can influence the outcome. 
+* **Social Desirability Response Bias** is a type of response bias is when a respondent is influenced to provide answers that are socially desirable and are not necessarily their true responses.
+* **Question Wording/Ordering Bias** occurs if the question is worded or ordered in such a way that it favors one response over another.
+* **Outlier/Extreme Response Bias** occurs when there are extreme data values. 
+* **Processing** is the series of operations needed to prepare data for analysis.
+* **Raw data** (also called dirty or unclean data) is data directly from the source. 
+* **Incomplete data** is data that lacks the key information.
+* **Duplicate data** is data that repeats itself.
+* **Inaccurate data** is information that is not correct.
+* **Inconsistent data** is unstandardized data.
+* **Clean data** is data that is accurate and formatted to a set of rules. These rules can be determined by your organization or by your data analysis needs. Data cleaning helps edit or remove incomplete, duplicate, incorrect, and inconsistent data.
+* **Data aggregation** is systematically combining data from multiple sources together. Processing may or may not involve aggregation.
+* **Data security** is the commitment to confidentiality and integrity of data.
+* **Personally Identifiable Information** also known as PII is any data that can be used to distinguish or trace an individual's identity.
+* **Data encryption** is the process of converting data into code to prevent unauthorized access.
