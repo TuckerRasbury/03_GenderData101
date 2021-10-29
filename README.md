@@ -110,7 +110,7 @@ Dataset | Type of Bias | How to Prevent
 ## Dictionary
 _Terms listed herein are from the TechChange Gender Data 101 course and are reproduced here to add to this record of what I learned during the course._
 
-### Week 2 Terms
+### Week 2 Resources
 * **Collection** is the process of gathering and measuring information in a systematic fashion.
 * **Biases** are personal and/or systematic judgments and pre-conceptions.
 * **Selection Bias**, also known as sampling bias, is choosing a sample that is not representative of the population being studied. Selection bias also results when participants not being randomly sampled to a condition.
@@ -131,3 +131,6 @@ _Terms listed herein are from the TechChange Gender Data 101 course and are repr
 * **Data security** is the commitment to confidentiality and integrity of data.
 * **Personally Identifiable Information** also known as PII is any data that can be used to distinguish or trace an individual's identity.
 * **Data encryption** is the process of converting data into code to prevent unauthorized access.
+
+### Week 3 Resources
+* Intersectional Analysis demonstrated with a Pay Equity example - [_Intersectional Pay Equity_](https://www.youtube.com/watch?v=sMBhJHELb8s&t=582s)
