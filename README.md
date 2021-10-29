@@ -108,7 +108,7 @@ Dataset | Type of Bias | How to Prevent
 
 
 ## Dictionary
-_Terms listed herein are from the TechChange Gender Data 101 course and are reproduced here to add to this record of what I learned during the course._
+_Terms and videos listed herein are from the TechChange Gender Data 101 course and are reproduced here to add to this record of what I learned during the course._
 
 ### Week 2 Resources
 
@@ -148,3 +148,8 @@ _Terms listed herein are from the TechChange Gender Data 101 course and are repr
 * **Percentage Points** used to express increments, drops, or differences. It represents decimal points. These are different from percentages.
 * **Mean** the arithmetic average of a set of numbers or distribution. It is the most commonly used central tendency of a set of numbers. It is used for normal distributions and it is not robust, as it is influenced by outliers.
 * **Median** the numeric value separating the higher half of a sample, a population, or a probability distribution, from the lower half. It is used for skewed distributions. It is computed by listing all numbers in ascending order and locating the number in the center of the distribution.
+* **Gender Analysis Frameworks** or (GAFs) are a collection of tools for gender analysis.
+  * [Jhpiego's Gender Analysis Framework for Health Systems](https://gender.jhpiego.org/analysistoolkit/seven-steps-to-a-gender-analysis/) - Jhiepgo's GAF categorizes the lives of women and men, girls and boys, into four main domains. All domains intersect with power. The four domains: access to assets, beliefs and perceptions, practices and participation, institutions, laws, and policies
+  * [Oxfam's Feminist monitoring, evaluation, accountability and learning (MEAL)](https://www.oxfam.ca/measuring-change-with-a-feminist-lens/) - Feminist Monitoring, Evaluation, Accountability and Learning (MEAL) is based on the understanding that transformative change in unequal gender and power relations is complex and non-linear. It challenges us to think differently about what is considered evidence, pushes the boundaries of how evidence is captured, questions who gives knowledge meaning and power, and promotes social transformation.
+  * [Gender at Work Framework](https://genderatwork.org/analytical-framework/) - Gender at Work Framework can be used by change agents to uncover opportunities and barriers to gender equality, map strategy for change, and guide evaluations of progress. The top two quadrants are related to the individual. The right quadrants are changes in individual conditions and the left is individual consciousness and capability. The bottom two quadrants are related to the system.
+  * [Harvard Analytical Framework](https://en.wikipedia.org/wiki/Harvard_Analytical_Framework) - The Harvard Analytical Framework, also known as the Gender Roles Framework, aims to identify the type and amount of work that men and women do in a household or community. The framework has three parts of inquiry: 1) Activity: Who does what? When? Where? 2) Access and Control: Who has access to what? Who has control over what? 3) Influencing Factors: What influences the division of labor and the access and control?
