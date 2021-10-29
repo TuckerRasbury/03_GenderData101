@@ -133,4 +133,4 @@ _Terms listed herein are from the TechChange Gender Data 101 course and are repr
 * **Data encryption** is the process of converting data into code to prevent unauthorized access.
 
 ### Week 3 Resources
-* Intersectional Analysis demonstrated with a Pay Equity example - [_Intersectional Pay Equity_](https://www.youtube.com/watch?v=sMBhJHELb8s&t=582s)
+* Intersectional Analysis demonstrated with Pay Equity example - [_Intersectional Pay Equity_](https://www.youtube.com/watch?v=sMBhJHELb8s&t=582s) by We All Count
