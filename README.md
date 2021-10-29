@@ -143,3 +143,8 @@ _Terms listed herein are from the TechChange Gender Data 101 course and are repr
 * **Metadata** is information about the data. This information includes general information about the dataset(s). It often includes definitions, rationale, methodology descriptions, and information about outliers. Metadata usually appears in footnotes or near the dataset description.
 * **Ratio** compares the frequency of one value for a variable with another value of the same variable.
 * **Rate** a measurement of one value for a variable in relation to another measured quantity.
+* **Proportion** number of times a particular value for a variable has been observed, by the total number of values in the population.
+* **Percentage** expresses a value for a variable in relation to a whole population as a fraction of one hundred.
+* **Percentage Points** used to express increments, drops, or differences. It represents decimal points. These are different from percentages.
+* **Mean** the arithmetic average of a set of numbers or distribution. It is the most commonly used central tendency of a set of numbers. It is used for normal distributions and it is not robust, as it is influenced by outliers.
+* **Median** the numeric value separating the higher half of a sample, a population, or a probability distribution, from the lower half. It is used for skewed distributions. It is computed by listing all numbers in ascending order and locating the number in the center of the distribution.
