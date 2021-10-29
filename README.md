@@ -111,6 +111,8 @@ Dataset | Type of Bias | How to Prevent
 _Terms listed herein are from the TechChange Gender Data 101 course and are reproduced here to add to this record of what I learned during the course._
 
 ### Week 2 Resources
+
+#### Dictionary
 * **Collection** is the process of gathering and measuring information in a systematic fashion.
 * **Biases** are personal and/or systematic judgments and pre-conceptions.
 * **Selection Bias**, also known as sampling bias, is choosing a sample that is not representative of the population being studied. Selection bias also results when participants not being randomly sampled to a condition.
@@ -133,4 +135,11 @@ _Terms listed herein are from the TechChange Gender Data 101 course and are repr
 * **Data encryption** is the process of converting data into code to prevent unauthorized access.
 
 ### Week 3 Resources
+
+#### Video
 * Intersectional Analysis demonstrated with Pay Equity example - [_Intersectional Pay Equity_](https://www.youtube.com/watch?v=sMBhJHELb8s&t=582s) by We All Count
+
+#### Dictionary
+* **Metadata** is information about the data. This information includes general information about the dataset(s). It often includes definitions, rationale, methodology descriptions, and information about outliers. Metadata usually appears in footnotes or near the dataset description.
+* **Ratio** compares the frequency of one value for a variable with another value of the same variable.
+* **Rate** a measurement of one value for a variable in relation to another measured quantity.
