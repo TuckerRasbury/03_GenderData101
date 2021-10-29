@@ -137,7 +137,7 @@ _Terms listed herein are from the TechChange Gender Data 101 course and are repr
 ### Week 3 Resources
 
 #### Video
-* Intersectional Analysis demonstrated with Pay Equity example - [_Intersectional Pay Equity_](https://www.youtube.com/watch?v=sMBhJHELb8s&t=582s) by We All Count
+* [_Intersectional Pay Equity_](https://www.youtube.com/watch?v=sMBhJHELb8s&t=582s) by WeAllCount - Intersectional analysis demonstrated with Pay Equity example
 
 #### Dictionary
 * **Metadata** is information about the data. This information includes general information about the dataset(s). It often includes definitions, rationale, methodology descriptions, and information about outliers. Metadata usually appears in footnotes or near the dataset description.
