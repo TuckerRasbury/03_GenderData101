@@ -101,16 +101,24 @@ Dataset | Type of Bias | How to Prevent
 _Description: Review and assess data from hypothetical COVID-19 related research projects(s). Subsequently, answer questions about the data, the process, and what way their analysis could be made better by adding a gender data analysis framework to it._
 
 #### Dr. Lopez's Research Questions
-Dataset: [Here](https://globalhealth5050.org/the-sex-gender-and-covid-19-project/)
+Dataset: [The Sex, Gender and COVID-19 Project](https://globalhealth5050.org/the-sex-gender-and-covid-19-project/)
 
-Description: Dr. Lopez is primarily concerned with her own city's (Washington, D.C.) COVID-19 data. She has aggregated data from local nursing homes, hospitals, and clinics to analyze. 
+Description: The COVID-19 Sex-Disaggregated Data Tracker is the world’s largest database of sex-disaggregated data on COVID-19. Dr. Lopez is primarily concerned with her own city's (Washington, D.C.) COVID-19 data. She has aggregated data from local nursing homes, hospitals, and clinics to analyze. We will help answer some of the questions the good doctor has about the data.
 
 #### Questions
 1. Describe the metadata of this dataset (Where is the data sourced? If there are multiple sources, list just a few)
+> According to the course _"Metadata includes general information about the dataset(s). It often includes definitions, rationale, methodology descriptions, and information about outliers."_ 
+> 
+> The sources used to produce the project include the following:
+> * [Global Health 50/50](https://globalhealth5050.org) -
+> * the [African Population and Health Research Center](https://aphrc.org) -
+> * and the [International Center for Research on Women](https://www.icrw.org) - 
 
 2. What specific data category should Dr. Lopez focus on and why? (For example: Men in Thailand and their COVID-19 death rate)
+> 
 
 3. In what ways could a Gender Data Analysis Framework help Dr. Lopez's analysis?
+> 
 
 
 ## Week 4: Gender Data Visualization [October 31-November 6]
