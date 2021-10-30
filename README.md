@@ -97,7 +97,20 @@ Dataset | Type of Bias | How to Prevent
 
 
 ## Week 3: Gender Data Analysis [October 24- 30th]
+### Activity: Next steps in COVID-19 gender data analysis
+_Description: Review and assess data from hypothetical COVID-19 related research projects(s). Subsequently, answer questions about the data, the process, and what way their analysis could be made better by adding a gender data analysis framework to it._
 
+#### Dr. Lopez's Research Questions
+Dataset: [Here](https://globalhealth5050.org/the-sex-gender-and-covid-19-project/)
+
+Description: Dr. Lopez is primarily concerned with her own city's (Washington, D.C.) COVID-19 data. She has aggregated data from local nursing homes, hospitals, and clinics to analyze. 
+
+#### Questions
+1. Describe the metadata of this dataset (Where is the data sourced? If there are multiple sources, list just a few)
+
+2. What specific data category should Dr. Lopez focus on and why? (For example: Men in Thailand and their COVID-19 death rate)
+
+3. In what ways could a Gender Data Analysis Framework help Dr. Lopez's analysis?
 
 
 ## Week 4: Gender Data Visualization [October 31-November 6]
