@@ -120,7 +120,7 @@ Description: The COVID-19 Sex-Disaggregated Data Tracker is the world’s larges
 > * the [African Population and Health Research Center](https://aphrc.org) - Is the continent’s premier progressive research institution and think tank, generating evidence to drive policy action to improve the health and wellbeing of African people. They focus on research, research capacity strengthening, and polcity engagement and communications.
 > * and the [International Center for Research on Women](https://www.icrw.org) - ICRW is a global research institute whose research evidence identifies women’s contributions as well as the obstacles that prevent them from being economically strong and able to fully participate in society. ICRW translates these insights into a path of action that honors women’s human rights, ensures gender equality and creates the conditions in which all women can thrive. 
 >
-> The project goes a step further by enabling its audience to review and download the data at the global level, country, and variable level.
+> The project goes a step further by enabling its audience to review and [download the data](https://globalhealth5050.org/the-sex-gender-and-covid-19-project/dataset/) at the global level, country, and variable level.
 
 2. What specific data category should Dr. Lopez focus on and why? (For example: Men in Thailand and their COVID-19 death rate)
 > 
