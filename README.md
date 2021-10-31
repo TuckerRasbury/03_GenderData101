@@ -107,12 +107,14 @@ Description: The COVID-19 Sex-Disaggregated Data Tracker is the world’s larges
 
 #### Questions
 1. Describe the metadata of this dataset (Where is the data sourced? If there are multiple sources, list just a few)
-> According to the course _"Metadata includes general information about the dataset(s). It often includes definitions, rationale, methodology descriptions, and information about outliers."_ 
+> According to the course _"Metadata includes general information about the dataset(s). It often includes definitions, rationale, methodology descriptions, and information about outliers."_ The Sex, Gender, and Covid-19 project has status of sex disaggregated data broken down by country,status of covid-19 reporting by country, global level statistics on Covid-19 cases disaggregated by sex, and analyses of how sex and gender may or may not be included in policy directives around the world making it an incredibly robust project.
+> 
+> Subsequently, they go on to use all of the data they have collected to push for more contries to collect and publicly report sex disaggregated data.
 > 
 > The sources used to produce the project include the following:
-> * [Global Health 50/50](https://globalhealth5050.org) -
-> * the [African Population and Health Research Center](https://aphrc.org) -
-> * and the [International Center for Research on Women](https://www.icrw.org) - 
+> * [Global Health 50/50](https://globalhealth5050.org) - is an independent, evidence-driven initiative to advance action and accountability for gender equality in global health.
+> * the [African Population and Health Research Center](https://aphrc.org) - Is the continent’s premier progressive research institution and think tank, generating evidence to drive policy action to improve the health and wellbeing of African people. They focus on research, research capacity strengthening, and polcity engagement and communications.
+> * and the [International Center for Research on Women](https://www.icrw.org) - ICRW is a global research institute whose research evidence identifies women’s contributions as well as the obstacles that prevent them from being economically strong and able to fully participate in society. ICRW translates these insights into a path of action that honors women’s human rights, ensures gender equality and creates the conditions in which all women can thrive. 
 
 2. What specific data category should Dr. Lopez focus on and why? (For example: Men in Thailand and their COVID-19 death rate)
 > 
