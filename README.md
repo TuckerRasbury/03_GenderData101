@@ -123,10 +123,12 @@ Description: The COVID-19 Sex-Disaggregated Data Tracker is the world’s larges
 > The project goes a step further by enabling its audience to review and [download the data](https://globalhealth5050.org/the-sex-gender-and-covid-19-project/dataset/) at the global level, country, and variable level.
 
 2. What specific data category should Dr. Lopez focus on and why? (For example: Men in Thailand and their COVID-19 death rate)
-> 
+> Dr. Lopez should focus on Washington, DC level/local level Covid-19 reporting that covers the lifecycle of covid from infection to mortality. The project only appears to have country level statistics and since her work is locally focused she may need a new data source all together.
 
-3. In what ways could a Gender Data Analysis Framework help Dr. Lopez's analysis?
+3. In what ways could a Gender Data Analysis Framework (GAF) help Dr. Lopez's analysis?
+> A GAF with the current data available in the project might not be as helpful to Dr.Lopez since it does not dig enough into her region of interest. However, even at this stage, a GAF may identify impediments to resources being distributed (ie. medical information and care) to women globally that she can later connect to the situation of women in Washington, D.C. when she does data particular to her area of interest.
 > 
+> In particular I think the [Jhpiego's Gender Analysis Framework for Health Systems](https://gender.jhpiego.org/analysistoolkit/seven-steps-to-a-gender-analysis/) may be really useful. In the U.S. different communities have different beliefs about healthcare at large and COVID-19 in particular, so there may be a really meaningful correlation between what women in a community believe and how the rest of the community is performing COVID wise, acting as something of a bellweather for how the community may or may not respond to different vaccination drives or, dare I say, anti-vaccination drives.
 
 
 ## Week 4: Gender Data Visualization [October 31-November 6]
