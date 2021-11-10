@@ -184,3 +184,11 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
   * [Oxfam's Feminist monitoring, evaluation, accountability and learning (MEAL)](https://www.oxfam.ca/measuring-change-with-a-feminist-lens/) - Feminist Monitoring, Evaluation, Accountability and Learning (MEAL) is based on the understanding that transformative change in unequal gender and power relations is complex and non-linear. It challenges us to think differently about what is considered evidence, pushes the boundaries of how evidence is captured, questions who gives knowledge meaning and power, and promotes social transformation.
   * [Gender at Work Framework](https://genderatwork.org/analytical-framework/) - Gender at Work Framework can be used by change agents to uncover opportunities and barriers to gender equality, map strategy for change, and guide evaluations of progress. The top two quadrants are related to the individual. The right quadrants are changes in individual conditions and the left is individual consciousness and capability. The bottom two quadrants are related to the system.
   * [Harvard Analytical Framework](https://en.wikipedia.org/wiki/Harvard_Analytical_Framework) - The Harvard Analytical Framework, also known as the Gender Roles Framework, aims to identify the type and amount of work that men and women do in a household or community. The framework has three parts of inquiry: 1) Activity: Who does what? When? Where? 2) Access and Control: Who has access to what? Who has control over what? 3) Influencing Factors: What influences the division of labor and the access and control?
+
+### Week 4 Resources
+
+#### Video
+* 
+
+#### Dictionary
+* **FILLER TEXT**
