@@ -222,8 +222,8 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
   3. What does the VISUAL say? 
 * **Data Viz/ Visualization Tools** 
   * Excel - Excel makes it super easy to store, analyze, clean, and quickly visualize data.
-  * Piktochart - A platform that generates beautiful, intuitive, and clean visuals for your data.
-  * Infogram - A web-based data visualization and infographics platform.
+  * [Piktochart](https://piktochart.com/) - A platform that generates beautiful, intuitive, and clean visuals for your data.
+  * [Infogram](https://infogram.com/) - A web-based data visualization and infographics platform.
   * Canva - A simplified graphic design tool and website that allows those of us without much design sense to pass as graphic artists. 
-  * kepler.gl - high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of deck.gl, kepler.gl can render millions of points representing thousands of trips and perform spatial aggregations on the fly.
-  * CARTO - cloud computing platform that provides GIS, web mapping, and spatial data science tools. The company is positioned as a location intelligence platform due to tools with an aptitude for data analysis and visualization that do not require previous GIS or development experience.
+  * [kepler.gl](kepler.gl) - high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of deck.gl, kepler.gl can render millions of points representing thousands of trips and perform spatial aggregations on the fly.
+  * [CARTO](https://carto.com/) - cloud computing platform that provides GIS, web mapping, and spatial data science tools. The company is positioned as a location intelligence platform due to tools with an aptitude for data analysis and visualization that do not require previous GIS or development experience.
