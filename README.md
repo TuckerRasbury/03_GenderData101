@@ -198,3 +198,14 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
   * What types of decisions does your viewer make? What information do they need? How will your data visualization add value?
   * What is your viewer’s digital literacy?
   * What is your viewer’s prior experience with data visualization?
+* **Tufte's Rules** for data visualization, consider " analyz[ing] the datasets you have, first. Discover the story that it tells before you choose a visualization platform, which runs the risk of pre-specifying certain narratives of the data." Here are the ten rules Tufte outlines:
+  1. Show Your Data
+  2. Use Graphics
+  3. Avoid Chartjunk
+  4. Utilize Data-ink
+  5. Use Labels
+  6. Utilize Micro/Macro
+  7. Separate Layers
+  8. Use Multiples
+  9. Utilize Color
+  10. Understand Narrative 
