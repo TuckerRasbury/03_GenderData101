@@ -193,4 +193,8 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
 #### Dictionary
 * **Data visualization** the graphic representation of data.
 * **Gender data visualization** the graphic representation of gender data.
-* 
+* **Data Viz Framework** ask yourself the following questions as you visualize data:
+  * Who is your viewer?
+  * What types of decisions does your viewer make? What information do they need? How will your data visualization add value?
+  * What is your viewer’s digital literacy?
+  * What is your viewer’s prior experience with data visualization?
