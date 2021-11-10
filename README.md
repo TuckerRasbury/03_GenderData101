@@ -191,4 +191,6 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
 * 
 
 #### Dictionary
-* **FILLER TEXT**
+* **Data visualization** the graphic representation of data.
+* **Gender data visualization** the graphic representation of gender data.
+* 
