@@ -188,7 +188,7 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
 ### Week 4 Resources
 
 #### Video
-* 
+* **[Tufte's Rules for Graphical Integrity](https://youtu.be/RK0TSg6BU5s)**
 
 #### Dictionary
 * **Data visualization** the graphic representation of data.
