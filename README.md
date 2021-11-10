@@ -189,6 +189,7 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
 
 #### Video
 * **[Tufte's Rules for Graphical Integrity](https://youtu.be/RK0TSg6BU5s)**
+* **[Policy Visualization Cheat Sheet](https://d2jbbv3z6z1uwh.cloudfront.net/course.tc/311-8/content/uploads/2019/11/14045721/PolicyViz-DataViz-Cheatsheet.pdf)**
 
 #### Dictionary
 * **Data visualization** the graphic representation of data.
@@ -209,3 +210,8 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
   8. Use Multiples
   9. Utilize Color
   10. Understand Narrative 
+* **Schwabish's Core Principles** Jonathan Schwabish is a senior fellow at the Income and Benefits Policy Center at the Urban Institute. As an economist, he also specializes in data visualization and presentation design as a member of the communications team. He also hosts the PolicyViz Podcast, which focuses on data, open data, and data visualization.
+  1. Show the data - The data is the most important part of the graph and should be presented in the clearest way possible. But that does not mean that all of the data must be shown—indeed, many graphs show too much. 
+  2. Reduce the clutter - Chart clutter, those unnecessary or distracting visual elements, tend to reduce effectiveness.
+  3. Integrate the text and the graph - Visualizations should be constructed to complement the text and, at the same time, contain enough information to stand alone.
+  4. Preattentive Processing - Effective data visualization taps into the brain’s preattentive visual processing.
