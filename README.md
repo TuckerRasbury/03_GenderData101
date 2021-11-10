@@ -188,8 +188,9 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
 ### Week 4 Resources
 
 #### Video
-* **[Tufte's Rules for Graphical Integrity](https://youtu.be/RK0TSg6BU5s)**
-* **[Policy Visualization Cheat Sheet](https://d2jbbv3z6z1uwh.cloudfront.net/course.tc/311-8/content/uploads/2019/11/14045721/PolicyViz-DataViz-Cheatsheet.pdf)**
+* [Tufte's Rules for Graphical Integrity](https://youtu.be/RK0TSg6BU5s)
+* [Policy Visualization Cheat Sheet](https://d2jbbv3z6z1uwh.cloudfront.net/course.tc/311-8/content/uploads/2019/11/14045721/PolicyViz-DataViz-Cheatsheet.pdf)
+* [Junk Charts Trifecta](http://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html)
 
 #### Dictionary
 * **Data visualization** the graphic representation of data.
@@ -215,3 +216,14 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
   2. Reduce the clutter - Chart clutter, those unnecessary or distracting visual elements, tend to reduce effectiveness.
   3. Integrate the text and the graph - Visualizations should be constructed to complement the text and, at the same time, contain enough information to stand alone.
   4. Preattentive Processing - Effective data visualization taps into the brain’s preattentive visual processing.
+* **Junk Charts Trifecta** The Junk Charts Trifecta Checkup is a general framework for data visualization criticism. It serves to organize the thinking behind data viz pieces by addressing three points of investigation:
+  1. What is the QUESTION?
+  2. What does the DATA say? 
+  3. What does the VISUAL say? 
+* **Data Viz/ Visualization Tools** 
+  * Excel - Excel makes it super easy to store, analyze, clean, and quickly visualize data.
+  * Piktochart - A platform that generates beautiful, intuitive, and clean visuals for your data.
+  * Infogram - A web-based data visualization and infographics platform.
+  * Canva - A simplified graphic design tool and website that allows those of us without much design sense to pass as graphic artists. 
+  * kepler.gl - high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of deck.gl, kepler.gl can render millions of points representing thousands of trips and perform spatial aggregations on the fly.
+  * CARTO - cloud computing platform that provides GIS, web mapping, and spatial data science tools. The company is positioned as a location intelligence platform due to tools with an aptitude for data analysis and visualization that do not require previous GIS or development experience.
