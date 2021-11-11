@@ -132,8 +132,18 @@ Description: The COVID-19 Sex-Disaggregated Data Tracker is the world’s larges
 
 
 ## Week 4: Gender Data Visualization [October 31-November 6]
+### Activity: COVID-19 Visualization Critique
 
+#### PRT 1
+1. Watch the following video: [Dr. Joel Selanikio on Truth, Lies, and Data Visualization in the Era of Coronavirus](https://www.youtube.com/embed/DMbJdAL41Kg)
+2. Read: [An alternative to pink & blue: Colors for gender data](https://blog.datawrapper.de/gendercolor/)
+3. Choose a visualization: 
 
+#### PRT 2
+Answer the following Questions: 
+1. What does the data visualization(s) do well? Many of the examples have more than one visualization, please be specific in your answer.
+2. Choose a framework: Tufte's Framework, Schwabish's Core Principles, Junk Chart's Trifecta, write 3-6 sentences about how the visualization incorporates or doesn't incorporate the elements of the framework.
+3. What is one thing you could do to improve the visualization?
 
 ## Week 5: Gender Data Uptake and Impact [November 7-13]
 
