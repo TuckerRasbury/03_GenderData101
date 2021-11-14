@@ -137,13 +137,18 @@ Description: The COVID-19 Sex-Disaggregated Data Tracker is the world’s larges
 #### PRT 1
 1. Watch the following video: [Dr. Joel Selanikio on Truth, Lies, and Data Visualization in the Era of Coronavirus](https://www.youtube.com/embed/DMbJdAL41Kg)
 2. Read: [An alternative to pink & blue: Colors for gender data](https://blog.datawrapper.de/gendercolor/)
-3. Choose a visualization: 
+3. Choose a visualization: [UNHCR's COVID-19 deepens threats for displaced women and children](https://storymaps.arcgis.com/stories/5bf55a1112144d7dafa58fb4ecc8f9a7)
 
 #### PRT 2
 Answer the following Questions: 
 1. What does the data visualization(s) do well? Many of the examples have more than one visualization, please be specific in your answer.
+>
+
 2. Choose a framework: Tufte's Framework, Schwabish's Core Principles, Junk Chart's Trifecta, write 3-6 sentences about how the visualization incorporates or doesn't incorporate the elements of the framework.
+>
+
 3. What is one thing you could do to improve the visualization?
+> The "_Demographics of focibly displaced people in 2020_" visualization in the UN Refugee Agency's report on violence agaisnt displaced women and children has inconsistent and illogical age groupings which creates one particularly oversized group. Particularly, the age bucket for 18-59 should be broken up into young adults 18-29, middle aged 30-45, and older folks 46-59. These different age groupings, or something akin to them, would allow for a more granular picture of the forcible displaced communities as young adults and older folks may have different immediate and long term needs and solutions for their displacement, for example. Bucketing 18 through 59 year olds brushes over useful nuances.
 
 ## Week 5: Gender Data Uptake and Impact [November 7-13]
 
