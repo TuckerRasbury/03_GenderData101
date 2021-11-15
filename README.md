@@ -152,6 +152,12 @@ Answer the following Questions:
 3. What is one thing you could do to improve the visualization?
 > The "_Demographics of focibly displaced people in 2020_" visualization in the UN Refugee Agency's report on violence agaisnt displaced women and children has inconsistent and illogical age groupings which creates one particularly oversized group. Particularly, the age bucket for 18-59 should be broken up into young adults 18-29, middle aged 30-45, and older folks 46-59. These different age groupings, or something akin to them, would allow for a more granular picture of the forcible displaced communities as young adults and older folks may have different immediate and long term needs and solutions for their displacement, for example. Bucketing 18 through 59 year olds brushes over useful nuances.
 
+#### PRT 3
+Final Project Brainstorm:
+> At the moment, I think options 8. Reflection on Gender Data 101 course and 9. Create a Gender Data Visualization are my most likely options. Option 9 is the most exciting option to me, but due to time constraints, I think option 8 might be my best bet. Ultimately, I think I would really like to number 9 though and may hold out to do it. 
+
+My idea for a gender data visualization is to aggregate US GDP data or federal job number reports, and stats on domestic abuse and/or sexual violence over time. My hypothesis is that they are correlated and that down turns in the economy lead to upticks in intra-partner violence. The significance of this is in identifying thresholds for when we think changes in the economy may trigger violence at people's kitchen tables and so that we can subsequently get resources allocated accordingly. There may be better bell weather indicators for intra-partner violence, but as an economics major in uni I think the two are tied or can be tied in a research paper.
+
 ## Week 5: Gender Data Uptake and Impact [November 7-13]
 
 
