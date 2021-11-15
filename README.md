@@ -142,7 +142,7 @@ Description: The COVID-19 Sex-Disaggregated Data Tracker is the world’s larges
 #### PRT 2
 Answer the following Questions: 
 1. What does the data visualization(s) do well? Many of the examples have more than one visualization, please be specific in your answer.
->
+> The visualizations do an incredible job of providing insight on the multiple layers/ranking of issues, and their respective scale, displaced women and children face; the "Most common child protection risks reported by UNHCR operations, 2016-2020" visualization is exemplary of this. This visualization enumerates a list of issues from seperation to child labour, violence, lack of documentation, etc. This layering/ranking puts the size of the problems clearly into view for the audience.
 
 2. Choose a framework: Tufte's Framework, Schwabish's Core Principles, Junk Chart's Trifecta, write 3-6 sentences about how the visualization incorporates or doesn't incorporate the elements of the framework.
 > Though not included in the list, I would like to talk about how the visualizations in the UNHCR's report do not address one of the core components/questions of the Harvard Analytical Framework, ie. who has access to what? I think the data visualizations could have somehow included numbers on how many countries restrict access to documentation, mobility (read: access to movement without supervision and vehicle licenses) , and/or avenues for legal recourse (read: ability to sue for rape, sexual assault, or abuse) for women. This may have fit in well with or closely following the statistics on "_Most frequently reported child protection risks in 2020_".
