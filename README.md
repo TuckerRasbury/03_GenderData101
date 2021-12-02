@@ -256,5 +256,12 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
 #### Video
 * [What are Stakeholder Maps and why use them?](https://youtu.be/XaO6__UC2Z0)
 * [How to create a Stakeholder Map](https://youtu.be/eqZfiTp1HZw)
+  * Step 1 - Define the focus of the project
+  * Step 2 - Create a list of relevant stakeholders
+  * Step 3 - Prioritize the stakeholders
+  * Step 4 - Illustrate the stakeholders on the project map
+  * Step 5 - Sketch the value exchange between the stakeholders (ex. products, information, finances, etc.)
+  * Step 6 - Analyse your stakeholder map from different perspectives
+  * Step 7 - Save and document your Map
 
 #### Dictionary
