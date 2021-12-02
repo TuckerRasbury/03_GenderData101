@@ -250,3 +250,11 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
   * Canva - A simplified graphic design tool and website that allows those of us without much design sense to pass as graphic artists. 
   * [kepler.gl](kepler.gl) - high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of deck.gl, kepler.gl can render millions of points representing thousands of trips and perform spatial aggregations on the fly.
   * [CARTO](https://carto.com/) - cloud computing platform that provides GIS, web mapping, and spatial data science tools. The company is positioned as a location intelligence platform due to tools with an aptitude for data analysis and visualization that do not require previous GIS or development experience.
+
+### Week 5 Resources
+
+#### Video
+* [What are Stakeholder Maps and why use them?](https://youtu.be/XaO6__UC2Z0)
+* [How to create a Stakeholder Map](https://youtu.be/eqZfiTp1HZw)
+
+#### Dictionary
