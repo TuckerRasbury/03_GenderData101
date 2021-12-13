@@ -159,7 +159,32 @@ Final Project Brainstorm:
 My idea for a gender data visualization is to aggregate US GDP data or federal job number reports, and stats on domestic abuse and/or sexual violence over time. My hypothesis is that they are correlated and that down turns in the economy lead to upticks in intra-partner violence. The significance of this is in identifying thresholds for when we think changes in the economy may trigger violence at people's kitchen tables and so that we can subsequently get resources allocated accordingly. There may be better bell weather indicators for intra-partner violence, but as an economics major in uni I think the two are tied or can be tied in a research paper.
 
 ## Week 5: Gender Data Uptake and Impact [November 7-13]
+### Activity: Create a Project Description & Value Statement 
 
+#### PRT 1: Decide who to make a project description for: you, Dr. Lopez, or Rumy
+
+#### PRT 2: If applicable, review Dr. Lopez or Rumy's journey throughout our course. (review the 'Case Study' section in each week's modules)
+
+#### PRT 3: Write the following -
+  * Project Title:
+
+  * Project Overview:
+
+  * Goals and Objectives:
+
+  * Project Timeline:
+
+  * Methodology and Tools:
+
+#### PRT 4: Answer the following questions with your informed opinion.
+
+  * Which stakeholders should you, Dr. Lopez, or Rumy target?
+
+  * What do you think the project's value statement should be and why?
+
+  * What is one expected project outcome?
+
+  * What is the project feedback plan?
 
 ## Dictionary
 _Terms and videos listed herein are from the TechChange Gender Data 101 course and are reproduced here to add to this record of what I learned during the course._
