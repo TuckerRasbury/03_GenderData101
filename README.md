@@ -162,19 +162,28 @@ My idea for a gender data visualization is to aggregate US GDP data or federal j
 ### Activity: Create a Project Description & Value Statement 
 
 #### PRT 1: Decide who to make a project description for: you, Dr. Lopez, or Rumy
+I will be making a project description for myself. 
 
 #### PRT 2: If applicable, review Dr. Lopez or Rumy's journey throughout our course. (review the 'Case Study' section in each week's modules)
+Not applicable given that I will be creating a project descriptin for myself.
 
 #### PRT 3: Write the following -
-  * Project Title:
+  * Project Title: 
+> "Cross Checking for Covid-19 Aid Eligibility, Federally and Statewide"
 
-  * Project Overview:
+  * Project Overview: 
+> With this project, we intend to simplify the process
+
+> Throughout the covid-19 pandemic, states and the federal government in the United States have rolled out various programs meant to help create a safety net for those experiencing any number of hardships. Some of the issues these programs address are related to employment (layoffs or decreased hours), domestic violence, child food scarcity, mental health, and student learning loss. This patchwork of programs meant to help those experiencing difficulties administered by a variety of entities with different initial eligibility standards and subsequent requirements for continued assistance has created a somewhat kafkaesque process that those experiencing any number of the aforementioned hardships may find difficult to balance. This project intends to simplify some of the difficulties individuals face while going through the initial application and subsequent requirement processes.
 
   * Goals and Objectives:
+> 
 
   * Project Timeline:
+>
 
   * Methodology and Tools:
+> 
 
 #### PRT 4: Answer the following questions with your informed opinion.
 
