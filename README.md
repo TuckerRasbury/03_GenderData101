@@ -177,12 +177,23 @@ Not applicable given that I will be creating a project descriptin for myself.
 > Throughout the covid-19 pandemic, states and the federal government in the United States have rolled out various programs meant to help create a safety net for those experiencing any number of hardships. Some of the hardships have been caused by changes in employment (layoffs or decrease in hours), domestic violence, child food scarcity, mental health, and student learning loss. The patchwork of programs erected help address those hardships are administered by a variety of entities with different initial eligibility standards and subsequent requirements for continued assistance. This has created a somewhat kafkaesque process that those experiencing any number of the aforementioned hardships may find difficult to identify, apply to, balance, and track. This project intends to address the difficulties individuals face while going through the initial application and subsequent requirement processes.
 
   * Goals and Objectives:
->  This project's top priority is to simplify the process of finding and filing for covid-19 assistance programs. The first goal is consolidating initial eligibility requirements and subsequent requirements across US state and federal programs. The second priority is leveraging submissions for one program to raise an alert for applicants to look into other programs that address similar or adjacent needs. In this priority, I am also thinking about the possibility of a user experience path with the option to submit eligibility documents to multiple programs of their choosing at the same time or submitting and having our platform identify programs whose criteria are met and following up to ask for any other necessary documents to. The third priority is to create a platform capable of distributing individual submissions meant to meet requirements to multiple programs on the behalf of applicants. The third and final priority is managing the stats around aid disbursed including amount, household type, and important timelines. 
+>  This project's top priority is to simplify the process of finding, filing for, and managing covid-19 assistance applications. The first goal is consolidating initial eligibility requirements and subsequent requirements across US state and federal programs. The second priority is leveraging submissions for one program to raise an alert for applicants to look into other programs that address similar or adjacent needs. In this priority, I am also thinking about the possibility of a user experience path with the option to submit eligibility documents to multiple programs of their choosing at the same time or submitting and having our platform identify programs whose criteria are met and following up to ask for any other necessary documents to. The third priority is to create a platform capable of distributing individual submissions meant to meet requirements to multiple programs on the behalf of applicants. The third and final priority is managing the stats around aid disbursed including amount, household type, and important timelines. 
 
   * Project Timeline:
-> 
+> I think this project will take a one to one and a half years to roll out for use by the general public. 
 
   * Methodology and Tools:
+> While I am unsure of how long the phases will take or which ones can be done simultaneously given that different , I think the following will need to be accomplished to roll this project out: 
+
+* research on the state and federal programs, 
+* cultivating partnerships with different offices to identify possible efficiencies, 
+* creating a user journey for one person
+* architecting the backend to receive and distribute submitted documents and track relevant timelines and figures, 
+* creating a user experience contract that allows our program to act as an intermediary between applicants and the program, 
+* automating the submission of eligibility documents and notifying the applicant of upcoming verification steps or issues,
+* architecting an intuitive user interface on the front end,
+* and, testing the project for durability by having an increasing number of fake users throughout the US on different platforms use different features at the same time.
+
 > 
 
 #### PRT 4: Answer the following questions with your informed opinion.
@@ -297,5 +308,3 @@ _Terms and videos listed herein are from the TechChange Gender Data 101 course a
   * Step 5 - Sketch the value exchange between the stakeholders (ex. products, information, finances, etc.)
   * Step 6 - Analyse your stakeholder map from different perspectives
   * Step 7 - Save and document your Map
-
-#### Dictionary
