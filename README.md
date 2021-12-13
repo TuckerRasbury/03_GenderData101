@@ -184,27 +184,39 @@ Not applicable given that I will be creating a project descriptin for myself.
 
   * Methodology and Tools:
 > While I am unsure of how long the phases will take or which ones can be done simultaneously given that different , I think the following will need to be accomplished to roll this project out: 
+> * research on the state and federal programs, 
+> * cultivating partnerships with different offices to identify possible efficiencies, 
+> * creating a user journey for one person
+> * architecting the backend to receive and distribute submitted documents and track relevant timelines and figures, 
+> * creating a user experience contract that allows our program to act as an intermediary between applicants and the program,
+> * creating a partnership contract that ensures entities administering programs will accept our intermediary services on an extended basis, 
+> * automating the submission of eligibility documents and notifying the applicant of upcoming verification steps or issues,
+> * architecting an intuitive user interface on the front end in different lagnguages and on different platforms,
+> * and, testing the project for durability by having an increasing number of fake users throughout the US on different platforms use different features at the same time.
 
-* research on the state and federal programs, 
-* cultivating partnerships with different offices to identify possible efficiencies, 
-* creating a user journey for one person
-* architecting the backend to receive and distribute submitted documents and track relevant timelines and figures, 
-* creating a user experience contract that allows our program to act as an intermediary between applicants and the program, 
-* automating the submission of eligibility documents and notifying the applicant of upcoming verification steps or issues,
-* architecting an intuitive user interface on the front end,
-* and, testing the project for durability by having an increasing number of fake users throughout the US on different platforms use different features at the same time.
-
-> 
+> Some of the tools I think will be needed to accomplish the priorities of this project are as follows:
+> * a website to facilitate data collection, application completion, and distribution,
+> * SQL / stored procedures to automate eligibility verification across programs once one initial program has been applied for,
+> an operational warehouse capable of storing and cross verifying the multiple submissions of the potential 330 milion users,
+> links between our tool and offices running programs to allow submissions made to our team to be sent to or shared live time with each program as seamlessly as possible,
+> automated mobile notifications,
+> and a calendar for each individual user that is automatically updated based on the programs they apply to.
 
 #### PRT 4: Answer the following questions with your informed opinion.
 
   * Which stakeholders should you, Dr. Lopez, or Rumy target?
+> Our stakeholders will be limited to people who are eligible for any of the programs we are able to create partnerships with.
 
   * What do you think the project's value statement should be and why?
+> "Simplifying government aid applications - because the pandemic has made everything harder!"
+>
+> This project's value statement should be the above because the priorities culminate in an easier experience for applicants.
 
   * What is one expected project outcome?
+> One project outcome is helping applicants apply to multiple programs at the same time.
 
   * What is the project feedback plan?
+> I think this project would take a two pronged approach to feedback. The first would be a standing space on the platform to take feedback. The second would be an automated helper on the right side of the screen where one option could be submitting impromptu feedback. All feedback should receive a "received message" at the least. Questions should be responded to or redirected to a FAQ page after some frequently asked questions have been established.
 
 ## Dictionary
 _Terms and videos listed herein are from the TechChange Gender Data 101 course and are reproduced here to add to this record of what I learned during the course._
