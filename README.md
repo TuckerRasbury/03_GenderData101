@@ -218,6 +218,15 @@ Not applicable given that I will be creating a project descriptin for myself.
   * What is the project feedback plan?
 > I think this project would take a two pronged approach to feedback. The first would be a standing space on the platform to take feedback. The second would be an automated helper on the right side of the screen where one option could be submitting impromptu feedback. All feedback should receive a "received message" at the least. Questions should be responded to or redirected to a FAQ page after some frequently asked questions have been established.
 
+## Final Project: Reflection on Gender Data 101 course
+
+> What were you hoping to take away that we could incorporate in the future? You will have an opportunity to submit a course evaluation, but maybe you want to reflect on your learning journey for your final project.
+>   Some questions to help stage your reflection:
+  >   What types of content and interactions were most engaging for you?
+  >   Which speakers were most valuable and why?
+  >   What was missing that you would have liked to discuss?
+  >   How might you have structured the course differently?
+
 ## Dictionary
 _Terms and videos listed herein are from the TechChange Gender Data 101 course and are reproduced here to add to this record of what I learned during the course._
 
