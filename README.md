@@ -1,5 +1,7 @@
 # [GenderData101](https://dataforsdgs.course.tc/catalog/gender-data-101-2)
 
+Course homepage: [here](https://dataforsdgs.course.tc/catalog/gender-data-101-2)
+
 _For the purposes of this course Gender Data is defined as being "grounded in concepts and definitions that adequately reflect the diversity of women and men and capture all aspects of their lives."_
 
 ## Introduction 
