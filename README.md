@@ -220,12 +220,13 @@ Not applicable given that I will be creating a project descriptin for myself.
 
 ## Final Project: Reflection on Gender Data 101 course
 
-> What were you hoping to take away that we could incorporate in the future? You will have an opportunity to submit a course evaluation, but maybe you want to reflect on your learning journey for your final project.
->   Some questions to help stage your reflection:
-  >   What types of content and interactions were most engaging for you?
-  >   Which speakers were most valuable and why?
-  >   What was missing that you would have liked to discuss?
-  >   How might you have structured the course differently?
+_*Brief Project Description:*_ I intend to complete the reflection final project, project #8. While, in general, I learned a lot, to be more specific, I really appreciated the gender analysis frameworks and data viz principles this course covered.
+
+At the beginning of the Gender Data 101 Edition 2.0 course, I was expecting to learn how to apply a gender based framework in the analysis and vizualization stages of the data lifecycle. However, at the outset of the course, the instructors made it very apparent that they intended demonstrate how a gender framework could be applied to each step of the lifecycle, from collection and processing, to analysis, to visualization, all the way through uptake and impact. I think this approach made the course more thorough and robust than initially anticipated - and I really enjoyed it all!
+
+Of the various part of the program, I first and foremost enjoyed the material in the  analysis and vizualization stages of the data lifecycle the most because they covered the stages of the process that I as a data analyst have the most exposure to and experience with. Second to that, I really enjoyed the videos and linked content to videos and external webpages that served as an example of the themes we were covering at a given time. And, finally, I really enjoyed rewatching the speakers who came to speak/present. Of the speakers, I think my favorites were Jonathan Schwabish of PolicyViz.com, and the speaker who addressed data privacy and collection work at a sexual assault survivor services organization.
+
+I can confidently say that there was nothing missing from the course, and I wouldn't restructure the course. I can say this because the course's goals, estimated time requirements, and difficulty were laid out upfront. For a beginner course in gender data, this course was a well rounded self paced course with a number of avenues to explore based on one's learning style. I am really happy that a peer recommended that I take this course.
 
 ## Dictionary
 _Terms and videos listed herein are from the TechChange Gender Data 101 course and are reproduced here to add to this record of what I learned during the course._
